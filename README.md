@@ -3,12 +3,12 @@
 classnames+cssmodule Tutorial
 
 
-## How to install
+### How to install
 
 <pre>yarn add classnames</pre>
 
 
-## How to use
+### How to use
 
 <pre>
 import styles from './Comp.scss'
